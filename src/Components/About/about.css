@@ -1,0 +1,27 @@
+.about-resume{
+    text-decoration: none;
+    color: #fff;
+    background-color: #28B463;
+    border: 3px solid #28B463;
+    padding: 15px 25px;
+    transition: .5s ease;
+    display: inline-block;
+}
+.about-contact{
+    text-decoration: none;
+    color: #fff;
+    background-color: #2C3E50;
+    border: 3px solid #28B463;
+    padding: 15px 25px;
+    transition: .5s ease;
+    display: inline-block;
+    margin-top: 10px;
+}
+.about-resume:hover{
+    background-color: #2C3E50;
+    color: #fff;
+}
+.about-contact:hover{
+    background-color: #28B463;
+    color: #fff;
+}

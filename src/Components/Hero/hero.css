@@ -1,0 +1,21 @@
+.hero{
+    text-align: center;
+}
+
+.hero a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #28B463;
+    padding: 15px 25px;
+    transition: .5s ease;
+}
+.hero a:hover{
+    background-color: #2C3E50;
+    color: #fff;
+}
+@media only screen and (min-width: 768px) {
+    .hero-content{
+        padding-top: 100px;
+    }
+}
+

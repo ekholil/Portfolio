@@ -1,0 +1,94 @@
+ [
+  {
+    "id": 1,
+    "name": "Cyclemart",
+    "desc": "A niche Product Ecommerce website. Made with mern stack. ",
+    "techs": [
+      "Node",
+      "MongoDB",
+      "ReactJS",
+      "ExpressJS",
+      "React-Bootsrap",
+      "Firebase",
+      "Heroku",
+      "REST API"
+    ],
+    "live": "https://cyclemart-79076.web.app/",
+    "github_client": "https://github.com/ekholil/cyclemart_client",
+    "github_server": "https://github.com/ekholil/cyclemart-server",
+    "images": [
+      "https://i.ibb.co/9y1B2YC/Screenshot-1.png",
+      "https://i.ibb.co/K04HVTT/Screenshot-2.png",
+      "https://i.ibb.co/Xts5L6p/Screenshot-3.png"
+    ],
+    "features": ["Registration and login system",
+      "Order a cycle by giving detailed user information",
+      "See All Order in dashboard",
+      "Cancel order at any time",
+      "Write review about website"]
+  },
+  {
+    "id": 2,
+    "name": "TravelistBD",
+    "desc": "Full stack travel booking website. Made with mern stack. ",
+    "techs": [
+      "Node",
+      "MongoDB",
+      "ReactJS",
+      "ExpressJS",
+      "react icons",
+      "React Hook Form", 
+      "SweetAlert",
+      "Core UI",
+      "React-Bootsrap",
+      "Firebase",
+      "Heroku",
+      "REST API"
+    ],
+    "live": "https://travelistbd.web.app/",
+    "github_client": "https://github.com/ekholil/travelistbd_client",
+    "github_server": "https://github.com/ekholil/travelistbd_server",
+    "images": [
+      "https://i.ibb.co/9y1B2YC/Screenshot-1.png",
+      "https://i.ibb.co/K04HVTT/Screenshot-2.png",
+      "https://i.ibb.co/Xts5L6p/Screenshot-3.png"
+    ],
+    "features": ["Login with Google",
+      "User can Book an Tour",
+      "Cancel Tour at any Time",
+      "See All Bookings in dashboard",
+      "admin can manage all bookings",
+      "admin can add new travel spot"
+      ]
+  },
+  {
+    "id": 3,
+    "name": "Seba General Hospital",
+    "desc": "A website Hospital Website. All service list shown in home page.",
+    "techs": [
+      "ReactJS",
+      "React-Bootsrap",
+      "Firebase",
+      "TailwindCSS",
+      "react-icons",
+      "react-items-carousel"
+      
+      
+    ],
+    "live": "https://seba-general-hospital.firebaseapp.com/",
+    "github_client": "https://github.com/ekholil/Seba_general_hospital",
+    
+    "images": [
+      "https://i.ibb.co/9y1B2YC/Screenshot-1.png",
+      "https://i.ibb.co/K04HVTT/Screenshot-2.png",
+      "https://i.ibb.co/Xts5L6p/Screenshot-3.png"
+    ],
+    "features": ["Registration and login system",
+      "Order a cycle by giving detailed user information",
+      "See All Order in dashboard",
+      "Cancel order at any time",
+      "Write review about website"]
+  }
+
+]
+
