@@ -27,7 +27,7 @@ const Projects = () => {
            .then(data=> setDatas(data))
     }, [])
     return (
-        <div style={{backgroundColor:'#2C3E50', height:'100vh'}}>
+        <div style={{backgroundColor:'#2C3E50', minHeight:'100vh'}}>
             <h1 className="text-center pt-4 text-white mx-auto" >My Projects</h1>
             <div className="mx-auto mb-4" style={{borderBottom:'4px solid #28B463', width:'200px', zIndex:'10'}}></div>
             

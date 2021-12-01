@@ -37,7 +37,7 @@ const ProjectDetail = () => {
            </div>
            <h3 className="mb-4">ScreenShots :  </h3>
 
-           <CContainer>
+           <CContainer className="mb-4">
             <CRow xs={{ cols: 1, gutter: 4 }} md={{ cols: 2 }}>
                 {
                     singleItem?.images.map(img => {

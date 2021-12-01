@@ -2,6 +2,7 @@ import { CCard, CCardBody, CCardFooter, CCardImage, CCardText, CCardTitle, CCol 
 import React from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css'; 
+import './project.css'
 const Project = (props) => {
     const {id, name, desc, techs, live, github_client, github_server, images} = props.data
     AOS.init({
@@ -28,8 +29,10 @@ const Project = (props) => {
     });
     return (
         <CCol xs>
-        <CCard data-aos="fade-up">
-          <CCardImage orientation="top" src={images[0]} />
+        <CCard  data-aos="fade-up">
+          <div className="p-card">
+          <CCardImage className="project-img" orientation="top" src={images[0]} />
+          </div>
           <CCardBody style={{backgroundColor:'#2C3E50', color: '#fff'}}>
             <CCardTitle>{name}</CCardTitle>
             <p>{desc}</p>

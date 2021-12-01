@@ -17,9 +17,9 @@
     "github_client": "https://github.com/ekholil/cyclemart_client",
     "github_server": "https://github.com/ekholil/cyclemart-server",
     "images": [
-      "https://i.ibb.co/9y1B2YC/Screenshot-1.png",
-      "https://i.ibb.co/K04HVTT/Screenshot-2.png",
-      "https://i.ibb.co/Xts5L6p/Screenshot-3.png"
+      "https://i.ibb.co/yQShQ7c/cycle1.jpg",
+      "https://i.ibb.co/GsvKRQV/cycle2.jpg",
+      "https://i.ibb.co/dLcNfVR/cycle3.jpg"
     ],
     "features": ["Registration and login system",
       "Order a cycle by giving detailed user information",
@@ -49,9 +49,9 @@
     "github_client": "https://github.com/ekholil/travelistbd_client",
     "github_server": "https://github.com/ekholil/travelistbd_server",
     "images": [
-      "https://i.ibb.co/9y1B2YC/Screenshot-1.png",
-      "https://i.ibb.co/K04HVTT/Screenshot-2.png",
-      "https://i.ibb.co/Xts5L6p/Screenshot-3.png"
+      "https://i.ibb.co/YW37Q1k/travel1.jpg",
+      "https://i.ibb.co/YXkY3cr/travel2.jpg",
+      "https://i.ibb.co/fpMLRmw/travel3.jpg"
     ],
     "features": ["Login with Google",
       "User can Book an Tour",
@@ -79,9 +79,9 @@
     "github_client": "https://github.com/ekholil/Seba_general_hospital",
     
     "images": [
-      "https://i.ibb.co/9y1B2YC/Screenshot-1.png",
-      "https://i.ibb.co/K04HVTT/Screenshot-2.png",
-      "https://i.ibb.co/Xts5L6p/Screenshot-3.png"
+      "https://i.ibb.co/vQp6H41/seba1.jpg",
+       "https://i.ibb.co/wKpcF7s/seba2.jpg",
+       "https://i.ibb.co/Br4F00D/seba3.jpg"
     ],
     "features": ["Registration and login system",
       "Order a cycle by giving detailed user information",

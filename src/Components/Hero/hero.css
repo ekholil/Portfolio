@@ -18,4 +18,9 @@
         padding-top: 100px;
     }
 }
+@media only screen and (max-width: 600px) {
+    .hero{
+        height: 300px !important;
+    }
+}
 

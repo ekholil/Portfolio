@@ -1,0 +1,12 @@
+.project-img{
+    transition: 1s ease;
+    box-sizing: border-box;
+    
+}
+.project-img:hover{
+    transform: scale(1.4);
+    
+}
+.p-card{
+    overflow: hidden;
+}
